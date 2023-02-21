@@ -1,1 +1,21 @@
-/* Write your CSS here! */
+body {
+  background-color: whitesmoke;
+  text-align: center;
+  margin: 8px;
+  display: block;
+}
+
+#mainHeading {
+  color: red;
+}
+
+h2 {
+  font-size: 25px
+}
+
+.funParagraph {
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+}
+
