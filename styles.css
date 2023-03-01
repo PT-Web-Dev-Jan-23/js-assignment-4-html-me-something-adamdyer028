@@ -1,1 +1,41 @@
-/* Write your CSS here! */
+body {
+  background-color: whitesmoke;
+  text-align: center;
+  margin: 8px;
+  display: block;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#mainHeading {
+  color: red;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 25px
+}
+
+.funParagraph {
+  color: green;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.story {
+  margin-left: 25px;
+  margin-right: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 20px;
+}
+
+#lastChapter {
+  margin-bottom: 50px;
+}
+
+#peaceTurtle {
+  margin-bottom: 50px;
+}
+
